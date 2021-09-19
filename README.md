@@ -2,7 +2,8 @@
 
 
 ### This repository was created to contain all my progress learning React Native.
-$~$
+
+
 # What i have done:
 + Basics
   - The fundamentals of React Native.
@@ -12,7 +13,7 @@ $~$
     * Running my app on real devices and emulators
     * Basic Styles
 
-$~$
+
 # My Goals:
 
 - [x] Build my first react native app.
